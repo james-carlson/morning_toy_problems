@@ -1,4 +1,4 @@
-<h1>DM22-Toy-Problems</h1>
+<h1>Morning Toy Problems</h1>
 
 This repository is for the storage of and reference to toy problems for use in DevMountain's morning toy problem workshops.
 
@@ -64,13 +64,13 @@ Solution:https://repl.it/Hmx6/0<br/>
 Kata Link: https://www.codewars.com/kata/bubblesort-once/train/javascript<br>
 
 <h2>Wednesday:</h2><br/>
-<b>Beginner Toy Problem</b>: pigLatin (6) https://repl.it/Gklr/3<br/>
-Kata Link: https://www.codewars.com/kata/simple-pig-latin<br/>
-Solution: https://repl.it/GknA/1<br/>
-
-<b>Advanced Toy Problem</b>: Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe (7) https://repl.it/HmzT/1<br>
+<b>Beginner Toy Problem</b>: Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe (7) https://repl.it/HmzT/1<br>
 Solution: https://repl.it/Hmz0/1<br/>
 Kata Link: https://www.codewars.com/kata/coding-meetup-number-1-higher-order-functions-series-count-the-number-of-javascript-developers-coming-from-europe/javascript </br>
+
+<b>Advanced Toy Problem</b>: pigLatin (6) https://repl.it/Gklr/3<br/>
+Kata Link: https://www.codewars.com/kata/simple-pig-latin<br/>
+Solution: https://repl.it/GknA/1<br/>
 
 <h2>Thursday:</h2><br/>
 <b>Beginner Toy Problem</b>: Remove the Dubstep (6) https://repl.it/H4lJ/0<br/>
